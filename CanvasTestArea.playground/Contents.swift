@@ -27,5 +27,6 @@ canvas.drawEllipse(centreX: 60, centreY: 350, width: 100, height: 100, borderWid
 canvas.drawEllipse(centreX: 245, centreY: 350, width: 100, height: 100, borderWidth: 2)
 // View the current state of the canvas
 canvas.drawEllipse(centreX: 150, centreY: 250, width: 200, height: 200)
+
 // This code is necessary to see the result in the Assistant Editor at right
 PlaygroundPage.current.liveView = canvas.imageView
